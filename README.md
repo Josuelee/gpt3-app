@@ -21,6 +21,7 @@ FIGMA Design: https://www.figma.com/file/lz9lLpFHMxHm2odnwM3R0z/gpt3?node-id=0%3
 ## Mobile Version
 
 ![img1](src/assets/mobile1.jpeg)
+![img](src/assets/mobile8.jpeg)
 ![img2](src/assets/mobile2.jpeg)
 ![img2](src/assets/mobile3.jpeg)
 ![img3](src/assets/mobile4.jpeg)
